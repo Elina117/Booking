@@ -134,7 +134,7 @@ namespace Booking
             }
         }
 
-            private void button_registration_Click(object sender, EventArgs e)
+        private void button_registration_Click(object sender, EventArgs e)
         {
             tabControl1.SelectedIndex = 2;
         }
